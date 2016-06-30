@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EspeoApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_info_card">InfoCardActivity</string>
+</resources>
