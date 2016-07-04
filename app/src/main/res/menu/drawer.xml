@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/contact"
+            android:checked="false"
+            android:icon="@drawable/ic_contacts"
+            android:title="@string/contact" />
+
+        <item
+            android:id="@+id/experience"
+            android:checked="false"
+            android:icon="@android:drawable/sym_def_app_icon"
+            android:title="@string/my_apps" />
+
+        <item
+            android:id="@+id/education"
+            android:checked="false"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="@string/map_to_espeo" />
+
+
+    </group>
+</menu>

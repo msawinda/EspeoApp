@@ -2,30 +2,27 @@ package pl.sawinda.espeoapp.models;
 
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by Appchance on 2016-06-30.
- */
 public class Place {
     @SerializedName("latitude")
-    private String lat;
+    private double lat;
     @SerializedName("longitude")
-    private String lng;
+    private double lng;
     @SerializedName("name")
     private String name;
 
-    public String getLat() {
+    public double getLat() {
         return lat;
     }
 
-    public void setLat(String lat) {
+    public void setLat(double lat) {
         this.lat = lat;
     }
 
-    public String getLng() {
+    public double getLng() {
         return lng;
     }
 
-    public void setLng(String lng) {
+    public void setLng(double lng) {
         this.lng = lng;
     }
 

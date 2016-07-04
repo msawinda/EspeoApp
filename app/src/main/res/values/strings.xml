@@ -1,5 +1,24 @@
 <resources>
     <string name="app_name">EspeoApp</string>
     <string name="title_activity_maps">Map</string>
-    <string name="title_activity_info_card">InfoCardActivity</string>
+    <string name="title_activity_info_card">EspeoApp</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="my_name">Mateusz Sawinda</string>
+    <string name="my_phone">+48 514212515</string>
+    <string name="my_email">mateusz.sawinda@gmail.com</string>
+    <string name="my_linkedin">/in/mateusz-sawinda</string>
+    <string name="screenshots">click for screenshots</string>
+    <string name="screenshots_hide">click to hide</string>
+    <string name="dotsens_desc">Car Assistant is a set composed of a small device installed in your car, and a mobile app that lets you track everything that goes on in your car, in real time.</string>
+    <string name="confrenz_desc">Cofrenz is a mobile app creator allowing event managers to build native Android, iPhone and iPad apps for their events. Apps created with Confrenz let people easily connect with each other and quickly find relevant information at conferences.</string>
+    <string name="my_apps">My apps</string>
+    <string name="contact">Contact info</string>
+    <string name="map_to_espeo">Map to Espeo</string>
+    <string name="send_email">Send email:</string>
+    <string name="waiting_for_gps">Waiting for GPS...</string>
+    <string name="cancel">cancel</string>
+    <string name="dialog_location_positive">Location Settings</string>
+    <string name="dialog_location_title">Enable Location</string>
+    <string name="dialog_location_message">Your Locations Settings is set to Off. Please Enable Location to use this app</string>
 </resources>
